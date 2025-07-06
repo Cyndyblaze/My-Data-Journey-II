@@ -66,5 +66,14 @@ It was observed that the bottom 10 customers all purchased office supplies and m
   - Follow-ups and re-engagement are key to a successful business; send surveys, and also an avenue for the customers to drop their reviews and feedback to understand why their order was low, and also to know if the company should         improve quality or update their website, e.g System maintenance to control Traffic, UX/UI(User Experience and User Interface).
   - Create contents and ADS to promote every product, which is also a way to create awareness.
 
-Below are the screenshots of my queries.
+Below are the screenshots of my queries:
 
+![2025-07-06 (5) - Copy](https://github.com/user-attachments/assets/d5269c32-537d-4a69-adda-4d397e0a3c1b)
+![2025-07-06 (6) - Copy](https://github.com/user-attachments/assets/5b04f361-45e1-4d91-a0c7-7b264f3ab4ce)
+![2025-07-06 (6)](https://github.com/user-attachments/assets/8cac13f4-2bda-4e14-b207-95086b2827fa)
+
+![2025-07-06 (8)](https://github.com/user-attachments/assets/cd5f7338-2869-4e62-8b19-0cec81fbb0dc)
+
+![Uploading 2025-07-06 (10).png…]()![2025-07-06 (12)](https://github.com/user-attachments/assets/26a7921b-502a-4b94-8f19-75ac40cc7e80)
+
+![Uploading 2025-07-06 (11).png…]()
