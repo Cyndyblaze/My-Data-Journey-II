@@ -62,19 +62,31 @@ It was observed that the bottom 10 customers all purchased office supplies and m
   - Firstly, introduce offers, discounts, and rewards through emails.
   - Secondly, some of the customers might not be aware of the full range of products; creating awareness and educating them on the range 
   - of the products the company sells.
-  - KMS should make their Regular Air shipping mode more reliable and cheaper by introducing a shipping discount, for example, buy goods worth $10 above; You will be given a voucher without shipping costs.
+  - KMS should make their Regular Air shipping mode more reliable and affordable by introducing a shipping discount, for example, by offering a voucher for goods worth $10 or more, with no![2025-07-06 (9)](https://github.com/user-attachments/assets/f364a448-4475-4c58-95d6-65b605d40bda)
+ shipping costs.
   - Follow-ups and re-engagement are key to a successful business; send surveys, and also an avenue for the customers to drop their reviews and feedback to understand why their order was low, and also to know if the company should         improve quality or update their website, e.g System maintenance to control Traffic, UX/UI(User Experience and User Interface).
   - Create contents and ADS to promote every product, which is also a way to create awareness.
   - Also, I observed that the company didn't treat customers based on their order priority. Even the urgent orders were delivered through a delivery truck, which is the slowest shipping mode, thereby causing their shipments to be          unreliable
 
 Below are the screenshots of my queries:
 
+![2025-07-06 (9)](https://github.com/user-attachments/assets/2825af75-6dfd-4874-be6e-337217ebebe7)
+
 ![2025-07-06 (5) - Copy](https://github.com/user-attachments/assets/d5269c32-537d-4a69-adda-4d397e0a3c1b)
 ![2025-07-06 (6) - Copy](https://github.com/user-attachments/assets/5b04f361-45e1-4d91-a0c7-7b264f3ab4ce)
-
+![2025-07-06 (7)](https://github.com/user-attachments/assets/445df8e1-9446-4685-99c9-26cdeca506d2)
 ![2025-07-06 (8)](https://github.com/user-attachments/assets/cd5f7338-2869-4e62-8b19-0cec81fbb0dc)
 
-![Uploading 2025-07-06 (10).png…]()![2025-07-06 (12)](https://github.com/user-attachments/assets/26a7921b-502a-4b94-8f19-75ac40cc7e80)
+![2025-07-06 (10)](https://github.com/user-attachments/assets/a2996497-8572-48cc-9d2a-85b8575ec067)
 
+![2025-07-06 (11)](https://github.com/user-attachments/assets/c9fb707c-9861-45f5-b3b4-dbc6f772b38e)
 
-
+![2025-07-06 (12)](https://github.com/user-attachments/assets/26a7921b-502a-4b94-8f19-75ac40cc7e80)
+![2025-07-07 (1)](https://github.com/user-attachments/assets/d5fce505-29aa-4fe0-87bb-154a5e09e6d9)
+![2025-07-07 (2)](https://github.com/user-attachments/assets/9e09343f-9c83-40d0-a282-9abc172d3b49)
+![2025-07-07 (3)](https://github.com/user-attachments/assets/eb6c279c-9781-4e2a-a710-ee4d81341aad)
+![2025-07-07 (4)](https://github.com/user-attachments/assets/9aa5a5e9-14d7-46a1-a190-d4efb4913ac9)
+![2025-07-07 (5)](https://github.com/user-attachments/assets/88185ce9-b328-4472-831a-1b3cabcb3045)
+![2025-07-07 (6)](https://github.com/user-attachments/assets/c5431f0a-318b-41a1-95bd-8b169987e93e)
+![2025-07-07 (6)](https://github.com/user-attachments/assets/2e5d4efb-e2b1-4f2e-abbe-8beb0a6b35cf)
+![2025-07-07](https://github.com/user-attachments/assets/1ab6cc30-203b-4e0b-883d-2fb1bb70c1fc)
