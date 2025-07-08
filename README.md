@@ -62,8 +62,7 @@ It was observed that the bottom 10 customers all purchased office supplies and m
   - Firstly, introduce offers, discounts, and rewards through emails.
   - Secondly, some of the customers might not be aware of the full range of products; creating awareness and educating them on the range 
   - of the products the company sells.
-  - KMS should make their Regular Air shipping mode more reliable and affordable by introducing a shipping discount, for example, by offering a voucher for goods worth $10 or more, with no![2025-07-06 (9)](https://github.com/user-attachments/assets/f364a448-4475-4c58-95d6-65b605d40bda)
- shipping costs.
+  - KMS should make their Regular Air shipping mode more reliable and affordable by introducing a shipping discount, for example, by offering a voucher for goods worth $10 or more, with no shipping costs.
   - Follow-ups and re-engagement are key to a successful business; send surveys, and also an avenue for the customers to drop their reviews and feedback to understand why their order was low, and also to know if the company should         improve quality or update their website, e.g System maintenance to control Traffic, UX/UI(User Experience and User Interface).
   - Create contents and ADS to promote every product, which is also a way to create awareness.
   - Also, I observed that the company didn't treat customers based on their order priority. Even the urgent orders were delivered through a delivery truck, which is the slowest shipping mode, thereby causing their shipments to be          unreliable
