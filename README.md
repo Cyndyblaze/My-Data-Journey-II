@@ -90,3 +90,10 @@ Below are the screenshots of my queries:
 ![2025-07-07 (6)](https://github.com/user-attachments/assets/c5431f0a-318b-41a1-95bd-8b169987e93e)
 ![2025-07-07 (6)](https://github.com/user-attachments/assets/2e5d4efb-e2b1-4f2e-abbe-8beb0a6b35cf)
 ![2025-07-07](https://github.com/user-attachments/assets/1ab6cc30-203b-4e0b-883d-2fb1bb70c1fc)
+
+## The link to the main file is attached below
+https://drive.google.com/file/d/1bCreZMJDPXU-BOkuG2nQvAwDO9MSiOKP/view?usp=sharing
+
+If you need a detail-oriented Data Analyst who can help you convert raw data into meaningful information and contribute to the growth of your business, feel free to contact me through this email: ofomcynthia@gmail.com
+
+
