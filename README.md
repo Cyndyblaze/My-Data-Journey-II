@@ -57,11 +57,11 @@ This involves exploring data to unveil the answers behind the questions, such as
 ## Analysis
 
 According to the data provided, I noticed that at KMS, customers are divided into segments, which are Corporate, Small Business, Consumer, and Home Office. Where Corporate Customers (wholesalers) ranked the highest in sales, and Small Business Customers ranked lowest in sales. There are also three product categories, including Office Supplies, Technology, and Furniture. I also noticed that the company incurred a loss on some products, mainly from Corporate and Home Office Customers. 
-It was observed that the bottom 10 customers all purchased office supplies and made a few orders, with a maximum of 3 orders; and
-  - They all have one ship mode in common, which is 'Regular Air'.
+It was observed that the bottom 10 customers all purchased office supplies and made a few orders, with a maximum of 3 orders; and they all have one ship mode in common, which is 'Regular Air'.
+
+  ## Recommendations
   - Firstly, introduce offers, discounts, and rewards through emails.
-  - Secondly, some of the customers might not be aware of the full range of products; creating awareness and educating them on the range 
-  - of the products the company sells.
+  - Secondly, some of the customers might not be aware of the full range of products; creating awareness and educating them on the range of the products the company sells.
   - KMS should make their Regular Air shipping mode more reliable and affordable by introducing a shipping discount, for example, by offering a voucher for goods worth $10 or more, with no shipping costs.
   - Follow-ups and re-engagement are key to a successful business; send surveys, and also an avenue for the customers to drop their reviews and feedback to understand why their order was low, and also to know if the company should         improve quality or update their website, e.g System maintenance to control Traffic, UX/UI(User Experience and User Interface).
   - Create contents and ADS to promote every product, which is also a way to create awareness.
