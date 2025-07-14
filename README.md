@@ -1,4 +1,4 @@
-# My-Data-Journey-II
+# My-Data-Journey-With-DSA-II
 
 When I was in my final year at the tertiary institution, there was a course that was a hard nut to crack for everyone: Computer Database. That was when the Structured Query Language(SQL) was introduced to us. Until now, I never knew I could find it so easy to master and overcome; it's all thanks to Incubator Hub and Facilator, Mr. Femi, who has made SQL seem uncomplicated and easy to comprehend. Allow me to delve into my second project with SQL.
 
@@ -11,15 +11,15 @@ Kultra Mega Stores (KMS) with the analysis of data, and to present key insights 
 
 ## Data Sources
 
-The primary source of data is Amazon.xlsx, which is an open-source data and can be easily downloaded from an open-source online.
-Tools Used
+The primary source of data is Amazon.xlsx, an open-source file that can be easily downloaded from an open-source online platform.
 
+## Tools Used
 - SQL for Creation of Databases, Data Cleaning, Data Manipulation, and Data Integrity.
 - Microsoft PowerPoint (for Data Presentation).
 
 ## Data Collection
 
-This is the process of gathering and measuring information on variables of interest in a systematic way. It involves downloading my datasets from an open source and also importing them into the database.
+This is the process of gathering and measuring information on variables of interest systematically. It involves downloading my datasets from an open-source platform provided by DSA and importing them into the database using SQL Server.
 
 ## Data Cleaning
 
@@ -57,15 +57,14 @@ This involves exploring data to unveil the answers behind the questions, such as
 ## Analysis
 
 According to the data provided, I noticed that at KMS, customers are divided into segments, which are Corporate, Small Business, Consumer, and Home Office. Where Corporate Customers (wholesalers) ranked the highest in sales, and Small Business Customers ranked lowest in sales. There are also three product categories, including Office Supplies, Technology, and Furniture. I also noticed that the company incurred a loss on some products, mainly from Corporate and Home Office Customers. 
-It was observed that the bottom 10 customers all purchased office supplies and made a few orders, with a maximum of 3 orders; and they all have one ship mode in common, which is 'Regular Air'.
+It was observed that the bottom 10 customers all purchased office supplies and made a few orders, with a maximum of 3 orders; and they all have one shipping mode in common, which is 'Regular Air'. Also, I observed that the company didn't treat customers based on their order priority. Even the urgent orders were delivered through a delivery truck, which is the slowest shipping mode, thereby causing their shipments to be unreliable.
 
   ## Recommendations
   - Firstly, introduce offers, discounts, and rewards through emails.
   - Secondly, some of the customers might not be aware of the full range of products; creating awareness and educating them on the range of the products the company sells.
   - KMS should make their Regular Air shipping mode more reliable and affordable by introducing a shipping discount, for example, by offering a voucher for goods worth $10 or more, with no shipping costs.
-  - Follow-ups and re-engagement are key to a successful business; send surveys, and also an avenue for the customers to drop their reviews and feedback to understand why their order was low, and also to know if the company should         improve quality or update their website, e.g System maintenance to control Traffic, UX/UI(User Experience and User Interface).
-  - Create contents and ADS to promote every product, which is also a way to create awareness.
-  - Also, I observed that the company didn't treat customers based on their order priority. Even the urgent orders were delivered through a delivery truck, which is the slowest shipping mode, thereby causing their shipments to be          unreliable
+  - Follow-ups and re-engagement are key to a successful business; send surveys, and also an avenue for the customers to drop their reviews and feedback to understand why their order was low, and also to know if the company should improve quality or update their website, e.g System maintenance to control Traffic, UX/UI(User Experience and User Interface).
+  - Create content and ADS to promote every product, which is also a way to create awareness.
 
 Below are the screenshots of my queries:
 
@@ -90,9 +89,10 @@ Below are the screenshots of my queries:
 ![2025-07-07 (6)](https://github.com/user-attachments/assets/2e5d4efb-e2b1-4f2e-abbe-8beb0a6b35cf)
 ![2025-07-07](https://github.com/user-attachments/assets/1ab6cc30-203b-4e0b-883d-2fb1bb70c1fc)
 
-## The link to the main file is attached below
-https://drive.google.com/file/d/1bCreZMJDPXU-BOkuG2nQvAwDO9MSiOKP/view?usp=sharing
+## The link to the main file is attached below 
+[Project File Download 
+](https://drive.google.com/file/d/1bCreZMJDPXU-BOkuG2nQvAwDO9MSiOKP/view?usp=sharing)
 
-If you need a detail-oriented Data Analyst who can help you convert raw data into meaningful information and contribute to the growth of your business, feel free to contact me through this email: ofomcynthia@gmail.com
+ If you need a detail-oriented Data Analyst who can help you convert raw data into meaningful information and contribute to the growth of your business, feel free to contact me through this email: ofomcynthia@gmail.com
 
 
