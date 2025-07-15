@@ -17,13 +17,44 @@ The primary source of data is Amazon.xlsx, an open-source file that can be easil
 - SQL for Creation of Databases, Data Cleaning, Data Manipulation, and Data Integrity.
 - Microsoft PowerPoint (for Data Presentation).
 
+## Database Creation
+The database was created using this query 
+``` SQL 
+CREATE DATABASE Cynthia_Akobueze_DSA_Project
+
+```
+
 ## Data Collection
 
 This is the process of gathering and measuring information on variables of interest systematically. It involves downloading my datasets from an open-source platform provided by DSA and importing them into the database using SQL Server.
 
 ## Data Cleaning
 
-Data Cleaning is the process of fixing or removing incorrect, corrupted, incomplete data in the dataset and duplicates.
+Data Cleaning is the process of fixing or removing incorrect, corrupted, incomplete data in the dataset and duplicates. I used the following queries;
+``` SQL
+alter table [kms sql case study]
+  alter column sales decimal (10,2)
+
+  alter table [kms sql case study]
+  alter column unit_price decimal (10,2)
+  
+ alter table [kms sql case study]
+  alter column product_base_margin decimal (10,2)
+   
+  alter table [kms sql case study]
+  alter column discount decimal (10,2)
+ 
+ alter table [kms sql case study]
+ alter column shipping_cost decimal (10,2)
+ 
+ alter table [kms sql case study]
+  alter column profit decimal (10,2)
+
+  select distinct region, sum(sales) as [Total Sales]
+	from [kms sql case study] 
+	group by region
+
+```
 
 ## Data Manipulation
 
